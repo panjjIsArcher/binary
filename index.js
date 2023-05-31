@@ -1,2 +1,2 @@
-import { transform } from "./src/util";
+import { transform } from "./src/binary";
 export default transform
